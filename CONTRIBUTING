@@ -3,3 +3,7 @@
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Getting Started
+
+To get started, execute ./script/bootstrap to run Bundler and setup other necessary components to the development of this library.
