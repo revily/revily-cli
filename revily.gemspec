@@ -36,6 +36,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rb-inotify'
   spec.add_development_dependency 'rspec', '~> 2.14'
   spec.add_development_dependency 'ruby_gntp'
-  spec.add_development_dependency 'webmock', '~> 1.13.0'
+  spec.add_development_dependency 'webmock', '~> 1.13'
   spec.add_development_dependency 'vcr', '~> 2.5'
 end
